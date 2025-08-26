@@ -1,0 +1,107 @@
+{
+  "base_solida": [
+    {
+      "symbol": "NVDA",
+      "allocation": 25000,
+      "thesis": "motor de IA; margem alta; demanda estrutural",
+      "plan": "3 tranches 40/30/30 em recuos de 3\u20137%",
+      "invalidation": "fecho < MM50 com volume acima da m\u00e9dia \u2192 reduzir 50%"
+    },
+    {
+      "symbol": "MSFT",
+      "allocation": 20000,
+      "thesis": "Azure + Copilot; cashflow massivo",
+      "plan": "2\u20133 tranches em recuos de mercado",
+      "invalidation": "fecho < MM100 com volume \u2192 reduzir 30\u201350%"
+    },
+    {
+      "symbol": "ASML",
+      "allocation": 15000,
+      "thesis": "monop\u00f3lio EUV/High\u2011NA; sem ASML n\u00e3o h\u00e1 chips",
+      "plan": "entrar e manter; refor\u00e7ar em quedas de 5\u20138%",
+      "invalidation": "break de suporte semanal \u2192 reduzir 30%"
+    },
+    {
+      "symbol": "ETH",
+      "allocation": 10000,
+      "assetClass": "crypto",
+      "pair": "ETHUSDT",
+      "thesis": "infra de smart contracts; ETF spot",
+      "plan": "DCA mensal; refor\u00e7o em quedas 5\u201310%",
+      "invalidation": "< 4300 USD (fecho di\u00e1rio) \u2192 reduzir 25%"
+    }
+  ],
+  "multiplicadores": [
+    {
+      "symbol": "PLTR",
+      "allocation": 20000,
+      "thesis": "IA gov/defesa + expans\u00e3o comercial",
+      "plan": "40/30/30; refor\u00e7o em breakout com volume",
+      "invalidation": "fecho < suporte chave + volume \u2192 cortar 30\u201350%"
+    },
+    {
+      "symbol": "SYM",
+      "allocation": 15000,
+      "thesis": "automa\u00e7\u00e3o log\u00edstica (Walmart/AMZN)",
+      "plan": "comprar na faixa; refor\u00e7o em novos highs",
+      "invalidation": "perda MM50 com volume \u2192 reduzir 50%"
+    },
+    {
+      "symbol": "TSLA",
+      "allocation": 10000,
+      "thesis": "FSD/Robotaxi + energia; op\u00e7\u00e3o de crescimento",
+      "plan": "tranches em fraqueza",
+      "invalidation": "fecho < MM100 + volume \u2192 reduzir 40%"
+    },
+    {
+      "symbol": "CRWD",
+      "allocation": 5000,
+      "thesis": "l\u00edder ciberseguran\u00e7a; ARR crescente",
+      "plan": "posi\u00e7\u00e3o sat\u00e9lite",
+      "invalidation": "guidance fraco/queda p\u00f3s\u2011earnings \u2192 reduzir"
+    }
+  ],
+  "moonshots": [
+    {
+      "symbol": "TAO",
+      "allocation": 30000,
+      "assetClass": "crypto",
+      "pair": "TAOUSDT",
+      "thesis": "IA descentralizada; supply escasso",
+      "plan": "entradas em 3 tranches; refor\u00e7ar em reconquista de resist\u00eancia",
+      "invalidation": "< 320 USD (fecho) \u2192 reduzir 30\u201350%"
+    },
+    {
+      "symbol": "CELC",
+      "allocation": 20000,
+      "thesis": "biotech oncologia; PDUFA 2025; parceria Pfizer",
+      "plan": "construir e reduzir risco perto da decis\u00e3o",
+      "invalidation": "falha/adiamento PDUFA \u2192 reduzir 50\u2013100%"
+    },
+    {
+      "symbol": "AKT",
+      "allocation": 15000,
+      "assetClass": "crypto",
+      "pair": "AKTUSDT",
+      "thesis": "cloud descentralizada (DePIN)",
+      "plan": "DCA em fraqueza; refor\u00e7o em reconquista",
+      "invalidation": "< 1.00 USD (fecho) \u2192 reduzir 30\u201350%"
+    },
+    {
+      "symbol": "SRRK",
+      "allocation": 10000,
+      "thesis": "doen\u00e7as raras; readout 2025",
+      "plan": "posicionar pequeno e aumentar com dados positivos",
+      "invalidation": "dados negativos \u2192 sair"
+    },
+    {
+      "symbol": "RNDR",
+      "allocation": 5000,
+      "assetClass": "crypto",
+      "pair": "RNDRUSDT",
+      "thesis": "renderiza\u00e7\u00e3o GPU descentralizada; narrativa IA",
+      "plan": "sat\u00e9lite; refor\u00e7o em breakouts",
+      "invalidation": "perda de tend\u00eancia semanal \u2192 reduzir"
+    }
+  ]
+}
